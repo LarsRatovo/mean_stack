@@ -1,0 +1,1 @@
+export const host : string = "https://m1p10mean-larousso-myranto.onrender.com";
